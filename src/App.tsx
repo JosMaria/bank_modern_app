@@ -1,7 +1,7 @@
-function App() {
+const App = () => {
   return (
-    <div>
-      App
+    <div className="bg-primary w-full overflow-hidden">
+      <h1>Hello world</h1>
     </div>
   )
 }
